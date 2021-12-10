@@ -1,3 +1,3 @@
 # minitalk
-my contribution to the minitalk projet, it seems fine.
+my contribution to the 42's minitalk projet, it seems fine.
 Made one bonus by accident
